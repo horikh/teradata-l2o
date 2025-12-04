@@ -1,0 +1,1 @@
+# teradata-l2o
